@@ -1,0 +1,26 @@
+{
+  "name": "zhuge-cli",
+  "version": "1.0.0",
+  "description": "脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dai1254473705/zhuge-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "脚手架，前端，fe"
+  ],
+  "author": "daiyunzhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dai1254473705/zhuge-cli/issues"
+  },
+  "homepage": "https://github.com/dai1254473705/zhuge-cli#readme",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}
